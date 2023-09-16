@@ -11,3 +11,4 @@ git clone https://github.com/kishan-stack/Detex.git
 python sql-det.py path_to_url_file
 
 # Example
+![Example](https://github.com/kishan-stack/Detex/assets/113700513/b20729ef-f4ee-433d-81bc-536c2dd0b642)
